@@ -24,7 +24,7 @@ public class NewRegulatory extends Activity implements SimpleGestureFilter.Simpl
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.new_regulatory);
+        setContentView(R.layout.new_regulator);
         context = this;
         detector = new SimpleGestureFilter(this,this);
 
