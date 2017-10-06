@@ -12,7 +12,7 @@ public class MainActivity extends Activity {
 
 
     ImageView baby,btn_our_strain, btn_colic, btn_other_fgid, btn_mechanism, btn_product_spec, btn_clinical_trial, btn_references, btn_biogiai;
-//github
+//git hubs
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

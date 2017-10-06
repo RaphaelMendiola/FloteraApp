@@ -12,7 +12,7 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 
 public class NewRegulatory extends Activity implements SimpleGestureFilter.SimpleGestureListener {
-
+//git hub
     private SimpleGestureFilter detector;
     ImageView btn_home,zoom1,zoom2,zoom3,big1,big2,big3;
     LinearLayout zoomout;
