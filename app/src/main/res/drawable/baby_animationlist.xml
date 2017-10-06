@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false" >
+
+    <item
+        android:drawable="@drawable/sbr01_baby1"
+        android:duration="250" />
+    <item
+        android:drawable="@drawable/sbr01_baby2"
+        android:duration="250"
+        />
+    <item
+        android:drawable="@drawable/sbr01_baby3"
+        android:duration="250"
+        />
+    <item
+        android:drawable="@drawable/sbr01_baby4"
+        android:duration="250"
+       />
+    <item
+        android:drawable="@drawable/sbr01_baby5"
+        android:duration="250"
+        />
+    <item
+        android:drawable="@drawable/sbr01_baby6"
+        android:duration="250"
+       />
+    <item
+        android:drawable="@drawable/sbr01_baby7"
+        android:duration="250"
+        />
+    <item
+        android:drawable="@drawable/sbr01_baby6"
+        android:duration="250"
+        />
+    <item
+        android:drawable="@drawable/sbr01_baby5"
+        android:duration="250"
+        />
+    <item
+        android:drawable="@drawable/sbr01_baby4"
+        android:duration="250"
+        />
+    <item
+        android:drawable="@drawable/sbr01_baby3"
+        android:duration="250"
+        />
+    <item
+        android:drawable="@drawable/sbr01_baby2"
+        android:duration="250"
+        />
+    <item
+        android:drawable="@drawable/sbr01_baby1"
+        android:duration="250"
+        />
+
+
+</animation-list>
